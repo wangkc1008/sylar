@@ -1,0 +1,5 @@
+/home/wangkc/demo/sylar/build/CMakeFiles/rebuild_cache.dir
+/home/wangkc/demo/sylar/build/CMakeFiles/edit_cache.dir
+/home/wangkc/demo/sylar/build/CMakeFiles/test_config.dir
+/home/wangkc/demo/sylar/build/CMakeFiles/sylar.dir
+/home/wangkc/demo/sylar/build/CMakeFiles/test.dir

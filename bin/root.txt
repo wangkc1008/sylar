@@ -1,0 +1,38 @@
+2021-10-16 19:08:38	name=class.map description=class map typenameSt3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE6PersonSt4lessIS5_ESaISt4pairIKS5_S6_EEE value=hehe:
+  - "name: \"\"\nage: 0\nsex: false"
+2021-10-16 19:08:38	name=class.person description=class person typename6Person value=name: ""
+age: 0
+sex: false
+2021-10-16 19:08:38	name=class.vec_map description=class vec_map typenameSt3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorI6PersonSaIS7_EESt4lessIS5_ESaISt4pairIKS5_S9_EEE value=p1:
+  - "- name: \"\"\n  age: 0\n  sex: false"
+2021-10-16 19:08:38	name=logs description=logs config typenameSt3setIN5sylar9LogDefineESt4lessIS1_ESaIS1_EE value=- "name: root\nlevel: INFO\nformatter: \"%d%T%m%n\"\nappenders: \"- level: UNKNOW\\n  type: FileAppender\\n  file: root.txt\\n- level: UNKNOW\\n  type: StdoutAppender\""
+- "name: system\nlevel: DEBUG\nformatter: \"%d%T%m%n\"\nappenders: \"- level: UNKNOW\\n  type: FileAppender\\n  file: system.txt\\n  formatter: \\\"%d%T[%p]%T%m%n\\\"\\n- level: UNKNOW\\n  type: StdoutAppender\""
+2021-10-16 19:08:38	name=system.data description=system data typenameSt6vectorIiSaIiEE value=- 1
+- 2
+2021-10-16 19:08:38	name=system.list description=system list typenameNSt7__cxx114listIiSaIiEEE value=- 12
+- 23
+2021-10-16 19:08:38	name=system.map description=system map typenameSt3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEdSt4lessIS5_ESaISt4pairIKS5_dEEE value=a:
+  - 5.0499999999999998
+b:
+  - 6.0800000000000001
+2021-10-16 19:08:38	name=system.port description=system port typenamei value=8080
+2021-10-16 19:08:38	name=system.set description=system set typenameSt3setIfSt4lessIfESaIfEE value=- 1.20000005
+- 4.80000019
+- 5.5999999
+2021-10-16 19:08:38	name=system.u_map description=system u_map typenameSt13unordered_mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEdSt4hashIS5_ESt8equal_toIS5_ESaISt4pairIKS5_dEEE value=v: 7.7699999999999996
+k: 6.6600000000000001
+2021-10-16 19:08:38	name=system.u_set description=system u_set typenameSt13unordered_setIiSt4hashIiESt8equal_toIiESaIiEE value=- 4
+- 3
+- 5
+2021-10-16 19:08:38	name=system.value description=system value typenamei value=10
+2021-10-16 19:10:01	name=class.map description=class map typenameSt3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE6PersonSt4lessIS5_ESaISt4pairIKS5_S6_EEE value=hehe:
+  - "name: \"\"\nage: 0\nsex: false"
+2021-10-16 19:10:01	name=class.person description=class person typename6Person value=name: ""
+age: 0
+sex: false
+2021-10-16 19:10:01	name=class.vec_map description=class vec_map typenameSt3mapINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEESt6vectorI6PersonSaIS7_EESt4lessIS5_ESaISt4pairIKS5_S9_EEE value=p1:
+  - "- name: \"\"\n  age: 0\n  sex: false"
+2021-10-16 19:10:01	name=logs description=logs config typenameSt3setIN5sylar9LogDefineESt4lessIS1_ESaIS1_EE value=- "name: root\nlevel: INFO\nformatter: \"%d%T%m%n\"\nappenders: \"- level: UNKNOW\\n  type: FileAppender\\n  file: root.txt\\n- level: UNKNOW\\n  type: StdoutAppender\""
+- "name: system\nlevel: DEBUG\nformatter: \"%d%T%m%n\"\nappenders: \"- level: UNKNOW\\n  type: FileAppender\\n  file: system.txt\\n  formatter: \\\"%d%T[%p]%T%m%n\\\"\\n- level: UNKNOW\\n  type: StdoutAppender\""
+2021-10-16 19:10:41	name=logs description=logs config typenameSt3setIN5sylar9LogDefineESt4lessIS1_ESaIS1_EE value=- "name: root\nlevel: INFO\nformatter: \"%d%T%m%n\"\nappenders: \"- level: UNKNOW\\n  type: FileAppender\\n  file: root.txt\\n- level: UNKNOW\\n  type: StdoutAppender\""
+- "name: system\nlevel: DEBUG\nformatter: \"%d%T%m%n\"\nappenders: \"- level: UNKNOW\\n  type: FileAppender\\n  file: system.txt\\n  formatter: \\\"%d%T[%p]%T%m%n\\\"\\n- level: UNKNOW\\n  type: StdoutAppender\""

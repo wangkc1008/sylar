@@ -1,0 +1,14 @@
+2021-10-16 13:24:45	25058	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:31		=================2021-10-16 13:24:45	25056	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:31		============================================ 245
+2021-10-16 13:24:45	25058	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:31		=================2021-10-16 13:24:45	25055	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		******************************************** 245
+2021-10-16 13:24:45	25058	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:31		=================2021-10-16 13:24:45	25057	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		******************************************** 245
+2021-10-16 13:24:45	25058	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:31		=================2021-10-16 13:24:45	25055	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		******************************************** 245
+[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		******************************************** 108
+2021-10-16 13:24:45	25055	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		*****************2021-10-16 13:24:45	25056	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:31		============================================ 245
+*************************** 27
+2021-10-16 13:24:45	25055	0	[DEBUG]	[root]	/homst_thread.cc:31		============================================ 108
+*************************** 27
+[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:31		============================================ 108
+2021-10-16 13:24:45	25055	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		*****************2021-10-16 13:24:45	25057	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		******************************************** 245
+2021-10-16 13:24:45	25055	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		*****************2021-10-16 13:24:45	25058	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:31		============================================ 245
+2021-10-16 13:24:45	25055	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		****************************** 122
+2021-10-16 13:24:45	25055	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test_thread.cc:24		***************** 109

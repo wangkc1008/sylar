@@ -1,0 +1,2 @@
+2021-10-12 20:11:59	[INFO]	hello system
+2021-10-12 20:11:59	[ERROR]	hello system

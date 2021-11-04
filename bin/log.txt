@@ -1,0 +1,7 @@
+2021-09-18 22:13:29	52572	0	[DEBUG]	[root]	/home/wangkc/demo/sylar/tests/test.cc:19		Hello logger
+2021-09-18 22:13:29	52572	0	[ERROR]	[root]	/home/wangkc/demo/sylar/tests/test.cc:20		Hello logger error
+2021-09-18 22:13:29	52572	0	[ERROR]	[root]	/home/wangkc/demo/sylar/tests/test.cc:22		Hello logger fmt haha, 156
+2021-09-18 22:13:57	ERROR	Hello logger error
+2021-09-18 22:13:57	ERROR	Hello logger fmt haha, 156
+2021-09-19 12:50:45	ERROR	Hello logger error
+2021-09-19 12:50:45	ERROR	Hello logger fmt haha, 156

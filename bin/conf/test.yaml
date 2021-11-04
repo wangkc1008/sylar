@@ -1,0 +1,60 @@
+log:
+  - name: root
+    level: info
+    formatter: '%d%T%m%n'
+    appender:
+      - type: FileAppender
+        path: log.txt
+      - type: StdoutAppender
+  - name: system
+    level: debug
+    formatter: '%d%T%m%n'
+    appender:
+      - type: FileAppender
+        path: log.txt
+      - type: StdoutAppender
+system:
+    port: 9000
+    value: 20
+    data:
+      - 10
+      - 20
+    list: [88, 66]
+    set: [99.9, 88.8, 66.6]
+    u_set: [33, 44, 55]
+    map:
+      x: 3.04
+      y: 9.04
+    u_map:
+      m: 1.11
+      n: 2.22
+      p: 3.33
+class:
+    person:
+      name: haha
+      age: 15
+      sex: true
+    map:
+      person1:
+        name: heihei
+        age: 18
+        sex: false
+      person2:
+        name: xixi
+        age: 19
+        sex: false
+    vec_map:
+      p3:
+        - name: pp1
+          age: 28
+          sex: false
+        - name: pp2
+          age: 29
+          sex: true
+      p4:
+        - name: pp21
+          age: 28
+          sex: false
+        - name: pp22
+          age: 29
+          sex: true
